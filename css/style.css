@@ -1,0 +1,71 @@
+body {
+    background-color: #A4A8D1;
+}
+h1 {
+    font-family: Helvetica;
+}
+strong {
+    font-weight: 900;
+    font-style: oblique;
+}
+em {
+    font-weight: 300;
+    font-style: italic, oblique;
+}
+ul {
+    font-style: italic;
+}
+li {
+    margin: 0.5em;
+    padding: 0 0 0 25px;
+}
+#inicio {
+    text-align: center;
+}
+#foto {
+    background-color: peru;
+    padding: 25px;
+}
+.index p{
+    display: inline-block;
+}
+.sobre_mim {
+    font-family: 'Lucida Sans';
+}
+.comunicativo {
+    font-size: 1.1em;
+    font-weight: 700;
+    font-style: normal;
+}
+.prestativo {
+    font-size: 1.25em;
+    font-weight: 700;
+    text-decoration: underline;
+    font-style: oblique;
+}
+.proativo {
+    font-size: 1em;
+    font-weight: 400;
+    text-decoration: overline;
+    font-style: italic;
+}
+.unix {
+    font-family: monospace;
+}
+.shell {
+    font-family: sans-serif;
+}
+.html {
+    font-family: 'Comic Neue', cursive;
+    font-weight: 700;
+}
+.css {
+    font-family: Helvetica;
+}
+.python{
+    font-family: 'Cedarville Cursive', cursive;
+}
+
+ul li:nth-child(odd) {
+    font-size: x-large;
+}
